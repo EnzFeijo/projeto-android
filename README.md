@@ -14,7 +14,7 @@
     Esse projeto foi um desafio criado pelo Prof. Gustavo Guanabara pelo CursoemVideo.
   </p>
   
-  <a href="https://enzfeijo.github.io/projeto-android/" target="_self"> Acesse o Projeto </a>
+  <a href="https://enzfeijo.github.io/projeto-android/" target="_blank" rel="external"> Acesse o Projeto </a>
 </div>
 
 <!-- ABOUT THE PROJECT -->
